@@ -1,7 +1,7 @@
 Package: RNASeqR
 Type: Package
 Title: RNASeqR: an R package for automated two-group RNA-Seq analysis workflow
-Version: 1.15.1
+Version: 1.15.2
 Date: 2018-8-7
 Author: Kuan-Hao Chao
 Maintainer: Kuan-Hao Chao <ntueeb05howard@gmail.com>
@@ -69,3 +69,4 @@ URL:
   https://github.com/HowardChao/RNASeqR
 NeedsCompilation:
   no
+PackageStatus: Deprecated
